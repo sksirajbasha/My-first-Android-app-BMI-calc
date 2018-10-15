@@ -1,2 +1,2 @@
 # Android
-My android apps
+This is y first android app calculating BMI.
